@@ -1,0 +1,39 @@
+docs/architecture/user-data-profile-path/spec.md
+  s_d8177dea5f2711::t_3b6da10d9be0ae 70-71
+  s_076f1e7855a0d1::t_469c7dbeb23f17 15,47-48,53,66,69
+  s_076f1e7855a0d1::t_436d25c5775c42 3,5,14,19-46,49-52,55,57
+  s_d8177dea5f2711::t_78ffaefd3eb433 1-2,4,6,11,16,54,56,58-65,67-68
+  s_076f1e7855a0d1::t_b739fb77f645c9 7-10
+  s_d8177dea5f2711::t_3f0ca2a6064436 72-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "79c4bcea5aa8a5f526a437705c750d8165bdebbd",
+  "prompts": {},
+  "humans": {
+    "h_0edea1d180c192": {
+      "author": "Dorence Deng <dorencedeng@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_076f1e7855a0d1": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a5653dd76fb6b3da8941e78",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Dorence Deng <dorencedeng@gmail.com>"
+    },
+    "s_d8177dea5f2711": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a55d55c76fb6b3da894175b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Dorence Deng <dorencedeng@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
